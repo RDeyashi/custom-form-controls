@@ -1,0 +1,10 @@
+.form-group{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+input{
+  min-height: 32px;
+  width: fit-content;
+}
